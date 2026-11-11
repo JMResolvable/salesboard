@@ -1,0 +1,425 @@
+[
+  {
+    "path": "assets/logos/Resolvable Logos/PDF/Resolvable logo Full_black_outsourcing.pdf",
+    "bytes": 21926,
+    "sha256": "5d73b023520af24c2909afaa17ae83212e1db752cedfe3c46ff907a5ad9fc929"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PDF/Resolvable logo Full white_AI.pdf",
+    "bytes": 13918,
+    "sha256": "6787fa65b859e0931894e5e590aac3841d992a034054806c89ab7f5625807201"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PDF/Resolvable logo Full colour black_outsourcing.pdf",
+    "bytes": 19317,
+    "sha256": "6b22562b4bf371a1c663985560cd1c9de72ead6fd43db91d5b7c055ac9a44f92"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PDF/Resolvable logo Full-colour black_AI.pdf",
+    "bytes": 13994,
+    "sha256": "1e21d7b9bdfdfdd28e4943ac7de8ca5586051c7433c9c8dd3d7581961e4f3f7a"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PDF/Resolvable logo Icon white .pdf",
+    "bytes": 7992,
+    "sha256": "f5c2a61914d96a8729609e3af248cbcc9835e5b7d9278ff87ee4fa7e6bdde68c"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PDF/Resolvable logo Full-colour white outsourcing.pdf",
+    "bytes": 19539,
+    "sha256": "deba4cd983cb21a0c5006f580ad55c4a9cba4a0c02e55c1c28aa5b52cd9ea282"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PDF/Resolvable logo Icon black.pdf",
+    "bytes": 7987,
+    "sha256": "3dff736882e90b2a8e016c3b535101a508a440002daa7495f74be0ffcffe6f7e"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PDF/Resolvable logo Full white .pdf",
+    "bytes": 14685,
+    "sha256": "7a4fb94a011f9780784e9e4bfe3dd4948b2c08bed8472c8f3706dd38e5ad7e10"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PDF/Resolvable logo Full black.pdf",
+    "bytes": 13484,
+    "sha256": "927b9b8f1bf4c01387d3efc866b13b0a9e228e9ffdfbe33630f2538e5c33a39d"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PDF/Resolvable logo Icon colour.pdf",
+    "bytes": 8078,
+    "sha256": "da4394ac8d84367c44bc3477e1b3962ae1ae84fea36df952a0c84551817041c4"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PDF/Resolvable logo Full colour black.pdf",
+    "bytes": 13717,
+    "sha256": "6e5a8c3c6645fbf3c8ab6d5376f40d4178945f4516259e99a203c34278f82c71"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PDF/Resolvable logo Full colour white_AI.pdf",
+    "bytes": 13907,
+    "sha256": "eff276ed9f0fff72dfe37d36315d9db912f728c1ea62d8a32239d3e5a1829110"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PDF/Resolvable logo Colour white.pdf",
+    "bytes": 13521,
+    "sha256": "4e3c9b3e8539a0b84f5e9aac5c9549af99675039fd2f2b1437db941bdf1e1b23"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PDF/Resolvable logo Full white_outsourcing.pdf",
+    "bytes": 21944,
+    "sha256": "25904891112572886252771881e55fda48174c7834033cefcacb8533663ad1cc"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/Favicon/Favicon_Light.svg",
+    "bytes": 1935,
+    "sha256": "cd83b31f8e58c5068ee031360b9462824c66766109f93ffb7fb7fbda99b737d6",
+    "viewBox": "0 0 1024 1024",
+    "fills": []
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/Favicon/Favicon_Dark.svg",
+    "bytes": 1938,
+    "sha256": "a64f0d4b8c76968336772e75fc42f2daeb170560eafea0bb8b186f2431ba34a8",
+    "viewBox": "0 0 1024 1024",
+    "fills": []
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/SVG/Resolvable logo Full colour black.svg",
+    "bytes": 11851,
+    "sha256": "8c58f03baee5de5e3f97f842bc0e0054e38b6f9f714cdbf27819da16666ae35b",
+    "viewBox": "0 0 3648 512",
+    "fills": [
+      "#231F20",
+      "#92D1B7",
+      "#97C9E5",
+      "#AAA3D0",
+      "#B5D48B",
+      "#BF8BBE",
+      "#E1779E",
+      "#E5C46B",
+      "none",
+      "white"
+    ]
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/SVG/Resolvable logo Colour white.svg",
+    "bytes": 11907,
+    "sha256": "afddb77b277d66ce86316e64d8df250d97392f6b906d5a034ef6a3efc2a76a38",
+    "viewBox": "0 0 3648 512",
+    "fills": [
+      "#92D1B7",
+      "#97C9E5",
+      "#AAA3D0",
+      "#B5D48B",
+      "#BF8BBE",
+      "#E1779E",
+      "#E5C46B",
+      "none",
+      "white"
+    ]
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/SVG/Resolvable logo Icon black.svg",
+    "bytes": 1789,
+    "sha256": "27a5fba138c0c3dbb6f8fc1fc13aae820d4124d0d9ffc0c2a8d5285c3b0f1cde",
+    "viewBox": "0 0 510 512",
+    "fills": [
+      "black",
+      "none",
+      "white"
+    ]
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/SVG/Resolvable logo Full-colour black_AI.svg",
+    "bytes": 12343,
+    "sha256": "c04da1fb1ea7879aa5322664545972e8f1bc23968e7d1bf50fe885095b95ca24",
+    "viewBox": "0 0 4482 512",
+    "fills": [
+      "#231F20",
+      "#61B9BA",
+      "#92D1B7",
+      "#97C9E5",
+      "#AAA3D0",
+      "#B5D48B",
+      "#BF8BBE",
+      "#E1779E",
+      "#E5C46B",
+      "none",
+      "white"
+    ]
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/SVG/Resolvable logo Full colour white_AI.svg",
+    "bytes": 12236,
+    "sha256": "60c9a67bdeb1270a561c33a440ee1ec0ae962021248eb6e93b370b244b2b9ab9",
+    "viewBox": "0 0 4482 512",
+    "fills": [
+      "#61B9BA",
+      "#92D1B7",
+      "#97C9E5",
+      "#AAA3D0",
+      "#B5D48B",
+      "#BF8BBE",
+      "#E1779E",
+      "#E5C46B",
+      "none",
+      "white"
+    ]
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/SVG/Resolvable logo Full white_outsourcing.svg",
+    "bytes": 22809,
+    "sha256": "aaa28e8b03088c2d248427115f82f55fc9056e53c7a7fb47211502793a78a7df",
+    "viewBox": "0 0 5867 512",
+    "fills": [
+      "none",
+      "white"
+    ]
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/SVG/Resolvable logo Icon white .svg",
+    "bytes": 1787,
+    "sha256": "788993cdd7b17e97fbe2f7c1f9e3bd40d0270af920a014c7a93fd85150bd7673",
+    "viewBox": "0 0 510 512",
+    "fills": [
+      "none",
+      "white"
+    ]
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/SVG/Resolvable logo Full white_AI.svg",
+    "bytes": 12295,
+    "sha256": "796fdec5e1de0fd889e0486bdcd473f3303101560b96d16976a1c029ac421bb4",
+    "viewBox": "0 0 4482 512",
+    "fills": [
+      "none",
+      "white"
+    ]
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/SVG/Resolvable logo Full_black_outsourcing.svg",
+    "bytes": 22803,
+    "sha256": "dc1fa1ccf041d92a5577ca759932f4dfebf570020facea9853b8977eb1590e9a",
+    "viewBox": "0 0 5867 512",
+    "fills": [
+      "black",
+      "none",
+      "white"
+    ]
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/SVG/Resolvable logo Full-colour white outsourcing.svg",
+    "bytes": 22363,
+    "sha256": "3ac1d34495523f568fce5002f818bdc0c9b6b3ca44e055d84d3648ec628ddcfe",
+    "viewBox": "0 0 5861 512",
+    "fills": [
+      "#92D1B7",
+      "#97C9E5",
+      "#AAA3D0",
+      "#B5D48B",
+      "#BF8BBE",
+      "#D77FB5",
+      "#E1779E",
+      "#E5C46B",
+      "none",
+      "white"
+    ]
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/SVG/Resolvable logo Full colour black_outsourcing.svg",
+    "bytes": 22466,
+    "sha256": "4d33a94197b3977bfbad628de5d94d37c7abf57adca58d4dc68812acb4cd7e95",
+    "viewBox": "0 0 5861 512",
+    "fills": [
+      "#231F20",
+      "#92D1B7",
+      "#97C9E5",
+      "#AAA3D0",
+      "#B5D48B",
+      "#BF8BBE",
+      "#D77FB5",
+      "#E1779E",
+      "#E5C46B",
+      "none",
+      "white"
+    ]
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/SVG/Resolvable logo Full white .svg",
+    "bytes": 12246,
+    "sha256": "f79ca8f046473548045f21600306335ed056e9b125def0d146077bcb4804a5bc",
+    "viewBox": "0 0 3645 512",
+    "fills": [
+      "none",
+      "white"
+    ]
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/SVG/Resolvable logo Full black.svg",
+    "bytes": 11903,
+    "sha256": "66a36532cb9d480da871ff16d245130306acf79cd11062dbcbe16ea8a04cdb8e",
+    "viewBox": "0 0 3648 512",
+    "fills": [
+      "black",
+      "none",
+      "white"
+    ]
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/SVG/Resolvable logo Icon colour.svg",
+    "bytes": 1801,
+    "sha256": "2b6cd2fbe9f847d6bf669dbebae7c13449006eacb755b718e00a7fd94771886f",
+    "viewBox": "0 0 510 512",
+    "fills": [
+      "#92D1B7",
+      "#97C9E5",
+      "#AAA3D0",
+      "#B5D48B",
+      "#BF8BBE",
+      "#E1779E",
+      "#E5C46B",
+      "none",
+      "white"
+    ]
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PNG/Resolvable logo Full-colour black_AI.png",
+    "bytes": 101936,
+    "sha256": "20101b5c8ad5e655dde96cb8955f80144fc7d2fbe9eeaa5ab90f84efa4e3aaf4"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PNG/Resolvable logo Full white_AI.png",
+    "bytes": 75494,
+    "sha256": "2f957ab5ccb8b1b36be55244111e2a1832930dcf8001fb807e719658b05b1183"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PNG/Resolvable logo Full white .png",
+    "bytes": 67279,
+    "sha256": "6d55883c9a73edcb0461db3e54f9e6305593c7f95ce9bc7ec79af0dc19481c8f"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PNG/Resolvable logo Full colour black.png",
+    "bytes": 87474,
+    "sha256": "63f3008c82fb79c909b2a7a7b774b106600930a75e083d75c6b84ec39fe65414"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PNG/Resolvable logo Colour white.png",
+    "bytes": 79298,
+    "sha256": "8942bf64f6a7c4a2356dd46e39a0f055a5a186d460ee712b345df845a6141fc7"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PNG/Resolvable logo Full white_outsourcing.png",
+    "bytes": 99942,
+    "sha256": "fc19d9bed7e3468ecde20bd0adb49e0973ce823c8de069f07d2b2eb0d9d18ae3"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PNG/Resolvable logo Icon white .png",
+    "bytes": 13227,
+    "sha256": "3a9c7c9b1f1dcfbd2d90cbf591d6925660eb678296d688f4aa1ca06797a0823d"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PNG/Resolvable logo Full colour white_AI.png",
+    "bytes": 92524,
+    "sha256": "4a2a724a2b280da92e2715a583a0564bcc0aa4e8350b72d7fee7944fad51071e"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PNG/Resolvable logo Full black.png",
+    "bytes": 65797,
+    "sha256": "1ce2fcca55f1f829117d821b7be346e853cf13bc9d59c429d6957ea31ca57ef3"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PNG/Resolvable logo Icon colour.png",
+    "bytes": 17346,
+    "sha256": "0517e09090c845a5490f6ce60b9d3036df571f3a8b03da2d1fe604b254b284d0"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PNG/Resolvable logo Full_black_outsourcing.png",
+    "bytes": 95497,
+    "sha256": "3e5be4e67e1d48eee6db70879dfc19058a456c2a3efe2f475552539fd2f8f740"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PNG/Resolvable logo Full colour black_outsourcing.png",
+    "bytes": 135585,
+    "sha256": "31ce3daea7d12f20f0e11a13c391e95cf89a5b8ba52475508c260ec8e09730f8"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PNG/Resolvable logo Full-colour white outsourcing.png",
+    "bytes": 127115,
+    "sha256": "f7d248e5ada2ab2bd7b4ad145abc40efa3a2843002d3e1b630c52bd5b466e323"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/PNG/Resolvable logo Icon black.png",
+    "bytes": 12270,
+    "sha256": "6092133bbe0ef70642448ec3da8ff57b5a239da1e4dd66a9e8fbca36ef8cef76"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/JPG/Resolvable logo Full-colour black_AI.jpg",
+    "bytes": 332492,
+    "sha256": "bec33d323308113cda7dca781232d1185514931dd56627a1ca2d1996dc0dd7cb"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/JPG/Resolvable logo Full colour black.jpg",
+    "bytes": 285611,
+    "sha256": "d91bca5835914fd10de6e1572ae1fb04a95b6c843a8bdd6b41a3caf20257da26"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/JPG/Resolvable logo Full black.jpg",
+    "bytes": 254310,
+    "sha256": "f8d06986edfe43193cbabaf6df36a2d935371aef3b84bae4a6a32fc87439bc87"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/JPG/Resolvable logo Full colour black_outsourcing.jpg",
+    "bytes": 487426,
+    "sha256": "e134f3ad9dee467fa0986b286912da3ab578035f47660ec7c1173ad56e6e6637"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/JPG/Resolvable logo Colour white.jpg",
+    "bytes": 120005,
+    "sha256": "774ee9c175d0cbde551393d82776eb4b018bb0bee7114f27268ce43eaa2cc8b0"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/JPG/Resolvable logo Full colour white_AI.jpg",
+    "bytes": 173083,
+    "sha256": "bf6e9518e285c1872c76df16d22bbe9ced612090509789fa9735b93145d18d1a"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/JPG/Resolvable logo Full-colour white outsourcing.jpg",
+    "bytes": 351937,
+    "sha256": "fe49f321d2130d5e89ab49092aa0239601dbeeb9bdc9ddfafcea23e41ded6500"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/JPG/Resolvable logo Icon white .jpg",
+    "bytes": 7795,
+    "sha256": "89751cf7b06c76a672b252665a27b2a2f0cdff6d18b5e5eef16828105dc6f675"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/JPG/Resolvable logo Icon black.jpg",
+    "bytes": 55771,
+    "sha256": "dbf9563137442652f3320cb5a8e4fce5ab33580942a1f15749315f981f81f003"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/JPG/Resolvable logo Icon colour.jpg",
+    "bytes": 76349,
+    "sha256": "7a9ac80283b2d2495f06d5a9524e7baff9c192e22ae20c67028bb3acb445295c"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/JPG/Resolvable logo Full white_AI.jpg",
+    "bytes": 63459,
+    "sha256": "ec1139ed98e03e2132eb7aafbc61af126b1fbc3875c80126ed5c0e8473b1108c"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/JPG/Resolvable logo Full white_outsourcing.jpg",
+    "bytes": 82835,
+    "sha256": "e0d58c310c1e59f12b76486094906190148db95eddabe9b129479036a45b569a"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/JPG/Resolvable logo Full_black_outsourcing.jpg",
+    "bytes": 379793,
+    "sha256": "89c1ebed364b7b1af40cadcdd57f35e4656ea3e2edd95c8e3306de56a30c01c6"
+  },
+  {
+    "path": "assets/logos/Resolvable Logos/JPG/Resolvable logo Full white .jpg",
+    "bytes": 51699,
+    "sha256": "e7a172c51be69feaa9a53c619e4f298309497e36ddc8bbcc5d2b904b3388429d"
+  }
+]

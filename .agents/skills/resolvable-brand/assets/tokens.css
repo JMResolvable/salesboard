@@ -1,0 +1,23 @@
+/* Verified values from user-supplied SVG logo masters. */
+:root {
+  --resolvable-wordmark-ink: #231F20;
+  --resolvable-ai-teal: #61B9BA;
+  --resolvable-outsourcing-pink: #D77FB5;
+  --resolvable-symbol-lime: #B5D48B;
+  --resolvable-symbol-gold: #E5C46B;
+  --resolvable-symbol-rose: #E1779E;
+  --resolvable-symbol-orchid: #BF8BBE;
+  --resolvable-symbol-lavender: #AAA3D0;
+  --resolvable-symbol-sky: #97C9E5;
+  --resolvable-symbol-mint: #92D1B7;
+  --resolvable-white: #FFFFFF;
+  --resolvable-mono-black: #000000;
+
+  /* Proposed implementation defaults. Font is NOT verified. */
+  --resolvable-canvas-dark: #151417;
+  --resolvable-surface-light: #F5F5F7;
+  --resolvable-border-light: #DAD9DE;
+  --resolvable-font-fallback: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  --resolvable-radius-card: 24px;
+  --resolvable-radius-pill: 999px;
+}

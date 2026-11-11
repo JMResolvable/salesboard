@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resolvable Brand"
+  short_description: "Resolvable identity, voice, products and brand assets"
+  default_prompt: "Use $resolvable-brand to create or review this Resolvable-branded work. Apply supplied logos and verified colours, and distinguish unverified typography and proposed implementation defaults."
